@@ -16,6 +16,7 @@ public class WalmartTest {
 		driver.get("https://www.walmart.com/");
 		System.out.println("WALMART");
 		//comment
+		//comment2
 	}
 
 }
